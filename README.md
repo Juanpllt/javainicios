@@ -1,2 +1,2 @@
 # javainicios
-hola esto es un programa
+hola esto es un programa de java
